@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="19.081" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="JOB_NAME" value="usingmavenpom"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\KP s Dell\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="3daa763dfba0a1b0"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\KPSDEL~1\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="14.0.1+7"/>
+    <property name="gmail_username" value="rkirupa1@gmail.com"/>
+    <property name="user.name" value="KP s Dell"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="usingmavenpom"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/usingmavenpom/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="OneDrive" value="C:\Users\KP s Dell\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="LOCALAPPDATA" value="C:\Users\KP s Dell\AppData\Local"/>
+    <property name="java.version" value="14.0.1"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="KP s Dell"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\conf"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="java.class.version" value="58.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.1"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/usingmavenpom/1/display/redirect"/>
+    <property name="TMP" value="C:\Users\KPSDEL~1\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="14.0.1+7"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/usingmavenpom/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-JJSA0AU"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-14.0.1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\KP s Dell"/>
+    <property name="COMPUTERNAME" value="DESKTOP-JJSA0AU"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\Users\KP s Dell"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-usingmavenpom-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="3daa763dfba0a1b0"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\KP s Dell"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin;C:\Program Files\Java\jdk-14.0.1/bin;C:\Program Files\Java\jdk-14.0.1/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\;C:\Users\KP s Dell\Downloads\chromedriver.exe;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\KP s Dell\AppData\Local\Microsoft\WindowsApps;C:\Python34\Scripts;C:\Python34\Scripts\pip --version;C:\Users\KP s Dell\Documents\Django_project;C:\Users\KP s Dell\AppData\Roaming\npm;C:\Users\KP s Dell\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\KP s Dell\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="java.class.path" value="C:\Users\KP s Dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\boot\plexus-classworlds-2.6.0.jar;C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven C:\Users\KP s Dell\.jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Users\KP s Dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\KP s Dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 51024"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-14.0.1/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\;C:\Users\KP s Dell\Downloads\chromedriver.exe;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\KP s Dell\AppData\Local\Microsoft\WindowsApps;C:\Python34\Scripts;C:\Python34\Scripts\pip --version;C:\Users\KP s Dell\Documents\Django_project;C:\Users\KP s Dell\AppData\Roaming\npm;C:\Users\KP s Dell\AppData\Local\Programs\Microsoft VS Code\bin"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-14.0.1/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 61 Stepping 4, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="M2_HOME" value="C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="java.io.tmpdir" value="C:\Users\KPSDEL~1\AppData\Local\Temp\"/>
+    <property name="=D:" value="D:\Driver"/>
+    <property name="HUDSON_HOME" value="C:\Users\KP s Dell\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/usingmavenpom/1/"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="D:\Trial Projects\com.orangehrm.frameworkpractice"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/usingmavenpom/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-JJSA0AU"/>
+    <property name="USERDOMAIN" value="DESKTOP-JJSA0AU"/>
+    <property name="MAVEN_HOME" value="C:\Users\KP s Dell\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="PROCESSOR_REVISION" value="3d04"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\KP s Dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\KP s Dell\.jenkins\workspace\usingmavenpom@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\KP s Dell\.jenkins\workspace\usingmavenpom"/>
+    <property name="maven3.interceptor.common" value="C:\Users\KP s Dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="14"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="gmail_password" value="kiru.123"/>
+  </properties>
+  <testcase name="callmethods" classname="com.orangehrm.testcases.getallpendingleaverequest" time="15.207"/>
+  <testcase name="openorangehrm" classname="com.orangehrm.testcases.loginorangehrms" time="1.792"/>
+  <testcase name="loginorangehrm" classname="com.orangehrm.testcases.loginorangehrms" time="2.082"/>
+  <testcase name="loginorangehrm" classname="com.orangehrm.testcases.loginorangehrms" time="1.968"/>
+  <testcase name="loginorangehrm" classname="com.orangehrm.testcases.loginorangehrms" time="1.188"/>
+  <testcase name="loginorangehrm" classname="com.orangehrm.testcases.loginorangehrms" time="1.242"/>
+</testsuite>
